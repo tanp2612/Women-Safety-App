@@ -52,3 +52,4 @@ Designing an effective safety application for women is imperative to address and
     <td><img src="https://github.com/user-attachments/assets/0754af6d-340d-49c9-b8d7-c65a62c04a34" alt="Alert" width="550"height="300"/></td>
   </tr>
 </table>
+
